@@ -1,0 +1,5 @@
+tensorflow-cpu
+Werkzeug
+gunicorn
+Flask
+pillow
